@@ -1,0 +1,14 @@
+C:\Users\Shridhar\documents\visual studio 2015\Projects\RateCalculator\RateCalculator.Loans\bin\Release\RateCalculator.Loans.dll
+C:\Users\Shridhar\documents\visual studio 2015\Projects\RateCalculator\RateCalculator.Loans\bin\Release\RateCalculator.Loans.pdb
+C:\Users\Shridhar\documents\visual studio 2015\Projects\RateCalculator\RateCalculator.Loans\bin\Release\CsvHelper.dll
+C:\Users\Shridhar\documents\visual studio 2015\Projects\RateCalculator\RateCalculator.Loans\bin\Release\CsvHelper.xml
+C:\Users\Shridhar\documents\visual studio 2015\Projects\RateCalculator\RateCalculator.Loans\obj\Release\RateCalculator.Loans.csprojResolveAssemblyReference.cache
+C:\Users\Shridhar\documents\visual studio 2015\Projects\RateCalculator\RateCalculator.Loans\obj\Release\RateCalculator.Loans.dll
+C:\Users\Shridhar\documents\visual studio 2015\Projects\RateCalculator\RateCalculator.Loans\obj\Release\RateCalculator.Loans.pdb
+C:\Users\Shridhar\Source\Repos\Rate-Calculator\RateCalculator\RateCalculator.Loans\bin\Release\RateCalculator.Loans.dll
+C:\Users\Shridhar\Source\Repos\Rate-Calculator\RateCalculator\RateCalculator.Loans\bin\Release\RateCalculator.Loans.pdb
+C:\Users\Shridhar\Source\Repos\Rate-Calculator\RateCalculator\RateCalculator.Loans\bin\Release\CsvHelper.dll
+C:\Users\Shridhar\Source\Repos\Rate-Calculator\RateCalculator\RateCalculator.Loans\bin\Release\CsvHelper.xml
+C:\Users\Shridhar\Source\Repos\Rate-Calculator\RateCalculator\RateCalculator.Loans\obj\Release\RateCalculator.Loans.csprojResolveAssemblyReference.cache
+C:\Users\Shridhar\Source\Repos\Rate-Calculator\RateCalculator\RateCalculator.Loans\obj\Release\RateCalculator.Loans.dll
+C:\Users\Shridhar\Source\Repos\Rate-Calculator\RateCalculator\RateCalculator.Loans\obj\Release\RateCalculator.Loans.pdb
